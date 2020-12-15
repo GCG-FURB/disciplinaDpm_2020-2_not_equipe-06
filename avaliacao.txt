@@ -1,0 +1,15 @@
+Equipe 6 __
+Ariel Adonai Souza / Gabriel Luís Fernando de Souza
+Android Auto
+
+ODB2 -> usaram para pegar dados do carro
+Slides, gostei da explicação
+Bom, exemplo de uso de Desenvolvimento de Plataformas Móveis explorando Entradas e Saídas não tradicionais.
+
+Tanque menor 15%
+Assitente procurar o posto mais próximo.
+
+Colocar no GIT ou passar o código e os slides
+Limtações do simulador ... não tem microfone.
+Vai me passar o link
+Nota: 10,0
